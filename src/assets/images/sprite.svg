@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" >
+	<defs>	
+		<symbol id="facebook" width="11" height="20" viewBox="0 0 11 20" xmlns="http://www.w3.org/2000/svg"><path d="M11 0H8a5 5 0 00-5 5v3H0v4h3v8h4v-8h3l1-4H7V5a1 1 0 011-1h3V0z" fill="#000" fill-rule="evenodd"/></symbol>
+		
+		<symbol id="twitter" width="23" height="19" viewBox="0 0 23 19" xmlns="http://www.w3.org/2000/svg"><path d="M23 .01a11.336 11.336 0 01-3.283 1.62A4.644 4.644 0 0014.513.313c-1.836.71-3.04 2.505-3.013 4.495v1.06c-3.732.097-7.264-1.703-9.41-4.797 0 0-4.18 9.53 5.228 13.765A12.057 12.057 0 010 16.953c9.41 5.294 20.91 0 20.91-12.177a4.824 4.824 0 00-.085-.88A8.201 8.201 0 0023 .012z" fill="#000" fill-rule="evenodd"/></symbol>
+
+		<symbol id="envelope" width="26" height="18" viewBox="0 0 26 18" xmlns="http://www.w3.org/2000/svg"><path d="M23 0H3C1.3 0 0 1.3 0 3v12c0 1.7 1.3 3 3 3h20c1.7 0 3-1.3 3-3V3c0-1.7-1.3-3-3-3zm.8 15.398L16 9.801l-3 2-3.102-2L2.2 15.398l6.301-6.5-7.7-6L13 9.5 25.102 3 17.5 9l6.3 6.398z" fill="currentColor" fill-rule="nonzero"/></symbol>
+
+		<symbol id="pinterest" width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M10 0C4.486 0 0 4.486 0 10s4.486 10 10 10 10-4.486 10-10S15.514 0 10 0zm0 1.5c4.703 0 8.5 3.797 8.5 8.5 0 4.703-3.797 8.5-8.5 8.5a8.526 8.526 0 01-2.073-.264 8.05 8.05 0 00.538-1.471l.515-2.035c.54.51 1.3.77 2.27.77 2.62 0 4.75-2.635 4.75-5.875C16 6.42 13.42 4 10 4 6.69 4 4 6.525 4 9.625c0 1.49.575 2.845 1.585 3.815.12.115.325.05.365-.11l.28-1.165c.03-.12 0-.245-.07-.35-.36-.51-.66-1.22-.66-2.19C5.5 7.35 7.52 5.5 10 5.5c.41 0 4 .12 4 4.25 0 2.045-.94 4.25-3 4.25-.52-.035-.89-.205-1.105-.48-.37-.49-.28-1.32-.17-1.755l.385-1.51c.1-.4.14-.74.14-1.03 0-.975-.59-1.475-1.25-1.475-.89 0-1.5.945-1.5 1.89 0 .515.08 1.065.25 1.555l-1.135 4.71S6.5 16.21 6.5 17.21c0 .1.018.365.025.545A8.483 8.483 0 011.5 10c0-4.703 3.797-8.5 8.5-8.5z" fill="currentColor" fill-rule="nonzero"/>
+		</symbol>
+
+		<symbol id="print" width="20" height="19" viewBox="0 0 20 19" xmlns="http://www.w3.org/2000/svg"><path d="M6.25 0A2.261 2.261 0 004 2.25V3h-.75A3.254 3.254 0 000 6.25v7c0 1.24 1.01 2.25 2.25 2.25H4v1.25A2.261 2.261 0 006.25 19h7.5A2.261 2.261 0 0016 16.75V15.5h1.75c1.24 0 2.25-1.01 2.25-2.25v-7A3.254 3.254 0 0016.75 3H16v-.75A2.261 2.261 0 0013.75 0h-7.5zm0 1.5h7.5c.423 0 .75.327.75.75V3h-9v-.75c0-.423.327-.75.75-.75zm0 10h7.5c.423 0 .75.327.75.75v4.5c0 .423-.327.75-.75.75h-7.5a.739.739 0 01-.75-.75v-4.5c0-.423.327-.75.75-.75z" fill="currentColor" fill-rule="nonzero"/></symbol>
+	</defs>
+	
+	<symbol id="arrow-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></symbol>
+
+	<symbol id="icon-list" viewBox="0 0 17 17"><path d="M0 5h17v7H0zm0 9h17v3H0zM0 0h17v3H0z" fill-rule="evenodd"/></symbol>
+	<symbol id="icon-grid" viewBox="0 0 17 17"><path d="M0 0h7.129v7H0zm10 0h7v6.874h-7zm0 10h7.129v7H10zM0 10h7.129v7H0z" fill-rule="evenodd"/></symbol>
+	<symbol id="icon-gallery" width="14" height="14" viewBox="0 0 14 14"><g stroke="currentColor" fill="none" fill-rule="evenodd"><path d="M.5.5h9v9h-9z"/><path d="M4.5 4.5h9v9h-9z"/></g></symbol>
+
+	<symbol id="chevron-left" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-left"><polyline points="15 18 9 12 15 6"></polyline></symbol>
+	<symbol id="chevron-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></symbol>
+	<symbol id="chevron-down" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></symbol>
+	<symbol id="chevron-up" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></symbol>
+
+	<svg id="search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke="currentColor" stroke-linejoin="round">
+		<circle cx="11" cy="11" r="8" fill="transparent"></circle>
+		<line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+	</svg>
+
+	<symbol id="menu" viewBox="0 0 23 16"><g fill="currentColor" fill-rule="evenodd"><path d="M0 0h23v2H0zM0 7h23v2H0zM0 14h23v2H0z"/></g></symbol>
+
+	<symbol id="close" viewBox="0 0 19 18"><g fill="currentColor" fill-rule="evenodd"><path d="M3.8 1.64l12.6 13.44c.337.36.337.92 0 1.28a.822.822 0 01-1.2 0L2.6 2.92a.936.936 0 010-1.28.822.822 0 011.2 0z"/><path d="M2.6 15.08L15.2 1.64a.822.822 0 011.2 0c.337.36.337.92 0 1.28L3.8 16.36a.822.822 0 01-1.2 0 .936.936 0 010-1.28z"/></g></symbol>
+	
+
+</svg>

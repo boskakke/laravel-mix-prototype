@@ -1,0 +1,58 @@
+
+
+
+
+
+
+
+
+
+.fw-sm {
+	@include sm-down {
+		margin-left: calc(var(--grid-padding-x) * -1);
+		margin-right: calc(var(--grid-padding-x) * -1);
+	}
+}
+%flex-center,
+.flex-center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
+$spacer: 1rem;
+
+$margins: () !default;
+$margins: map-merge((
+	"0":    	0,
+	"1":    	var(--space-1),
+	"2":    	var(--space-2),
+	"3":    	var(--space-3),
+	"4":     	var(--space-4),
+	"5":     	var(--space-5),
+	"6":     	var(--space-6),
+	"7":     	var(--space-7),
+	"8":     	var(--space-8)
+	), $margins);
+
+@each $margin, $value in $margins {
+	.mt-#{$margin} {
+		margin-top: $value;
+	}
+	.mb-#{$margin} {
+		margin-bottom: $value;
+	}
+	.pt-#{$margin} {
+		padding-top: $value;
+	}
+	.pb-#{$margin} {
+		padding-bottom: $value;
+	}
+}
+
+.lg-mt-1 {
+	@include md-up {
+		margin-top: var(--space-4);
+	}	
+}

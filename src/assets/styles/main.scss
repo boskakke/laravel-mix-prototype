@@ -1,0 +1,25 @@
+$lg-path-fonts: '/assets/fonts/lightgallery';
+$lg-path-images: '/assets/images/lightgallery';
+
+/*import scss files from /node_modules:*/
+/*@import "~lightgallery.js/src/sass/lightgallery";
+@import "~swiper/swiper";
+@import "~swiper/components/pagination/pagination";
+@import "~swiper/components/lazy/lazy";*/
+
+@import "./components/breakpoints";
+@import "./components/reset";
+@import "./layouts/base";
+@import "./components/tools";
+
+@import "./config";
+
+
+//
+#__bs_notify__ {
+	top: auto !important; 
+	bottom: 0!important;
+	font-size: var(--font-1) !important;
+	padding: var(--space-1) !important;
+	border-radius: 0 !important;
+}
